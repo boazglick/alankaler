@@ -6,7 +6,6 @@ module.exports = {
   siteTitleMeta: "alankaler", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
     "alankaler", // This allows an alternative site description for meta data for pages.
-  googleAdsenseAccountMeta: "ca-pub-8148276210846697",
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
@@ -72,6 +71,10 @@ module.exports = {
   metadata: {
     title: "alankaler",
     description:"alankaler",
+  },
+    Adsense: {
+      name: "google-adsense-account",
+      content: "ca-pub-8148276210846697",
   },
   twitterCard: {
     title: "",
