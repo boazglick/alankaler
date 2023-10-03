@@ -72,7 +72,7 @@ module.exports = {
     title: "alankaler",
     description:"alankaler",
   },
-    Adsense: {
+    meta: {
       name: "google-adsense-account",
       content: "ca-pub-8148276210846697",
   },
