@@ -71,10 +71,7 @@ module.exports = {
   metadata: {
     title: "alankaler",
     description:"alankaler",
-  },
-    meta: {
-      name: "google-adsense-account",
-      content: "ca-pub-8148276210846697",
+    googleAdsenseAccount: "ca-pub-8148276210846697",    
   },
   twitterCard: {
     title: "",
