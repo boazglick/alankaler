@@ -1,7 +1,7 @@
 module.exports = {
   siteUrl: "https://alankaler.co.il", // Site domain. Do not include a trailing slash!
 
-  postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
+  postsPerPage: 80, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
   siteTitleMeta: "קהילת רשלנות רפואית בישראל", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
@@ -87,9 +87,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "alankaler",
+  siteTitle: "קהילת רשלנות רפואית בישראל",
   siteDescription:
-    "alankaler",
+    "רשלנות רפואית בישראל זו מגפה וכולם צריכים להיות ערניים לגביה. הקהילה שלנו עוזרת לאלפי משפחות בישראל לקבל את הפיצוי המגיע להן",
   language: "he",
   logoUrl: "",
   iconUrl: "",
