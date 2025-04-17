@@ -69,8 +69,8 @@ module.exports = {
     successMessage: "נהיה עמך בקשר בהקדם",
   },
   metadata: {
-    title: "alankaler",
-    description:"alankaler",
+    title: "קהילת רשלנות רפואית בישראל",
+    description:"רשלנות רפואית בישראל זו מגפה וכולם צריכים להיות ערניים לגביה. הקהילה שלנו עוזרת לאלפי משפחות בישראל לקבל את הפיצוי המגיע להן",
     googleAdsenseAccount: "ca-pub-8148276210846697",    
   },
   twitterCard: {
