@@ -3,20 +3,20 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "alankaler", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "קהילת רשלנות רפואית בישראל", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "alankaler", // This allows an alternative site description for meta data for pages.
+    "רשלנות רפואית בישראל זו מגפה וכולם צריכים להיות ערניים לגביה. הקהילה שלנו עוזרת לאלפי משפחות בישראל לקבל את הפיצוי המגיע להן", // This allows an alternative site description for meta data for pages.
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "alankaler", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "קהילת רשלנות רפואית בישראל", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "alankaler",
+    title: "קהילת רשלנות רפואית בישראל",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -33,7 +33,7 @@ module.exports = {
     ],
   },
   footer: {
-    copyright: "כל הזכויות שמורות ",
+    copyright: "כל הזכויות שמורות ל-קהילת רשלנות רפואית בישראל ",
     navigation: [
       {
         label: "דף הבית",
