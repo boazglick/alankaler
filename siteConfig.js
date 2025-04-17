@@ -65,8 +65,8 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
-    successMessage: "We’ll get in touch with you soon.",
+    title: "קהילת רשלנות רפואית בישראל",
+    successMessage: "נהיה עמך בקשר בהקדם",
   },
   metadata: {
     title: "alankaler",
@@ -81,9 +81,9 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "yarokaz",
+    title: "קהילת רשלנות רפואית בישראל",
     description:
-      "Lightning fast, 1t on Gatsby.",
+      "רשלנות רפואית בישראל זו מגפה וכולם צריכים להיות ערניים לגביה. הקהילה שלנו עוזרת לאלפי משפחות בישראל לקבל את הפיצוי המגיע להן.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
